@@ -1,4 +1,4 @@
-# 🚺 Aura Safety Navigator
+# 🚺 Women Safety Navigator
 
 An **AI-powered women safety navigation system** that helps users choose safer routes by analyzing multiple real-world risk factors.
 
